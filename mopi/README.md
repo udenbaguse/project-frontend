@@ -1,11 +1,11 @@
 # Mopi Frontend
 
-Ini adalah folder latihan mini project frontend untuk proyek **Mopi**, bagian dari repositori `project-frontend`. Folder ini berisi struktur dasar aplikasi web berbasis HTML dan JavaScript.
+This folder contains a mini frontend practice project for **Mopi**, part of the `project-frontend` repository. It includes the basic structure of a web application built with HTML and JavaScript.
 
-Link demo hanya dapat diakses sampai 19 September 2025:
+🔗 Demo link (accessible until September 19, 2025):  
 https://udenbaguse.static.domains/
 
-## 📁 Struktur Folder
+## 📁 Folder Structure
 
 ```
 mopi/
@@ -13,26 +13,26 @@ mopi/
 └── src/
 ```
 
-- `index.html`: Halaman utama aplikasi.
-- `src/`: Folder sumber daya, kemungkinan berisi file JavaScript, CSS, atau komponen frontend lainnya.
+- `index.html`: The main entry point of the application.
+- `src/`: Resource folder, likely containing, or other frontend components.
 
-## 🚀 Cara Menjalankan
+## 🚀 How to Run
 
-1. Clone repositori:
+1. Clone the repository:
    ```bash
    git clone https://github.com/udenbaguse/project-frontend.git
    ```
-2. Buka folder `mopi`:
+2. Navigate to the `mopi` folder:
    ```bash
    cd project-frontend/mopi
    ```
-3. Buka `index.html` di browser untuk melihat tampilan awal.
+3. Open `index.html` in your browser to view the app.
 
-## 📌 Catatan
+## 📌 Notes
 
-- Pastikan semua dependensi atau file pendukung di dalam folder `src` telah lengkap.
-- Jika menggunakan framework atau library tertentu, tambahkan penjelasan di bagian ini.
+- Built using only HTML and CSS.
+- No frameworks or libraries have been implemented yet.
 
-## 🛠️ Kontribusi
+## 🛠️ Contribution
 
-Jika ingin berkontribusi, silakan buat pull request atau buka issue untuk diskusi lebih lanjut.
+Feel free to contribute by submitting a pull request or opening an issue for discussion.
